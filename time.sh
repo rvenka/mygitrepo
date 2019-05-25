@@ -1,0 +1,3 @@
+calc
+time
+ls -lrt
